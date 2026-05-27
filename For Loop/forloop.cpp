@@ -26,6 +26,7 @@ int main(){
     num=n;
     for(i=1;i<pow;i++){
         num=num*n;
+        
     }
     cout<<num<<endl;
 }
